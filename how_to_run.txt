@@ -1,0 +1,3 @@
+Open command prompt and go to this directory using command cd
+Then type for example:
+..\luajit\luajit.exe example_name.lua
